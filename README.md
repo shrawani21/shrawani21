@@ -30,5 +30,4 @@ Python | SQL | Git | AWS | Tableau
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrawani21&show_icons=true&theme=radical)](https://github.com/shrawani21)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shrawani21&theme=radical)](https://git.io/streak-stats)
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrawani21&theme=github)](https://github.com/shrawani21)
 
