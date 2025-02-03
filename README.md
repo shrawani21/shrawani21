@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Shrawani Kajal
 
-📞 **Contact**: +91 6284225109 | 📧 [shrawanikajal553@gmail.com](mailto:shrawanikajal553@gmail.com)  
+📞 **Contact**: +91 xxxxxxxx | 📧 [shrawanikajal553@gmail.com](mailto:shrawanikajal553@gmail.com)  
 🔗 [GitHub](https://github.com/shrawani21) | 💼 [LinkedIn](https://linkedin.com/in/shrawani-kajal-021aa422a/)
 
 [![GitHub Follow](https://img.shields.io/badge/Follow-shrawani21-2ea44f?logo=github)](https://github.com/shrawani21)
