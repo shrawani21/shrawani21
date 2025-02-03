@@ -12,8 +12,8 @@ Graduate in Computer Applications with expertise in Python, AI/ML, and Data Engi
 ---
 
 ### 🎓 **Education**  
-- **MCA** (Lovely Professional University) • 2021–2023 • CGPA: 7.45  
-- **BCA** (Chandigarh University) • 2018–2021 • CGPA: 7.84  
+- **MCA** (Lovely Professional University) • 2021–2023  
+- **BCA** (Chandigarh University) • 2018–2021 
 
 ---
 
